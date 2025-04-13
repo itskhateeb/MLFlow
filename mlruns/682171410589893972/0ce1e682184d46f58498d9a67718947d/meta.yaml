@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/682171410589893972/0ce1e682184d46f58498d9a67718947d/artifacts
+end_time: 1744526260661
+entry_point_name: ''
+experiment_id: '682171410589893972'
+lifecycle_stage: active
+run_id: 0ce1e682184d46f58498d9a67718947d
+run_name: useful-squirrel-536
+run_uuid: 0ce1e682184d46f58498d9a67718947d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744526253423
+status: 3
+tags: []
+user_id: rahma
