@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahma/OneDrive/Desktop/MLOps/MLFlow/mlruns/834049462800618178/cfc8180e79844fec979ced63524af953/artifacts
+end_time: 1744529859038
+entry_point_name: ''
+experiment_id: '834049462800618178'
+lifecycle_stage: active
+run_id: cfc8180e79844fec979ced63524af953
+run_name: flawless-shoat-994
+run_uuid: cfc8180e79844fec979ced63524af953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744529858980
+status: 3
+tags: []
+user_id: rahma

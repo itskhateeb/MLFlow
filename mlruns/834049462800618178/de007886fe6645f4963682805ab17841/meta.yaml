@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahma/OneDrive/Desktop/MLOps/MLFlow/mlruns/834049462800618178/de007886fe6645f4963682805ab17841/artifacts
+end_time: 1744529858240
+entry_point_name: ''
+experiment_id: '834049462800618178'
+lifecycle_stage: active
+run_id: de007886fe6645f4963682805ab17841
+run_name: respected-hare-658
+run_uuid: de007886fe6645f4963682805ab17841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744529858149
+status: 3
+tags: []
+user_id: rahma

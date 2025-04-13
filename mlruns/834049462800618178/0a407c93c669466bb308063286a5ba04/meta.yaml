@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahma/OneDrive/Desktop/MLOps/MLFlow/mlruns/834049462800618178/0a407c93c669466bb308063286a5ba04/artifacts
+end_time: 1744529858973
+entry_point_name: ''
+experiment_id: '834049462800618178'
+lifecycle_stage: active
+run_id: 0a407c93c669466bb308063286a5ba04
+run_name: carefree-snake-833
+run_uuid: 0a407c93c669466bb308063286a5ba04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744529858896
+status: 3
+tags: []
+user_id: rahma

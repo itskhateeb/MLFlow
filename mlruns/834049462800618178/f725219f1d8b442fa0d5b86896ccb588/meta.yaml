@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahma/OneDrive/Desktop/MLOps/MLFlow/mlruns/834049462800618178/f725219f1d8b442fa0d5b86896ccb588/artifacts
+end_time: 1744529858589
+entry_point_name: ''
+experiment_id: '834049462800618178'
+lifecycle_stage: active
+run_id: f725219f1d8b442fa0d5b86896ccb588
+run_name: resilient-wolf-65
+run_uuid: f725219f1d8b442fa0d5b86896ccb588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744529858475
+status: 3
+tags: []
+user_id: rahma

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahma/OneDrive/Desktop/MLOps/MLFlow/mlruns/834049462800618178/be735093082149f189da7a1cef64dabf/artifacts
+end_time: 1744529868937
+entry_point_name: ''
+experiment_id: '834049462800618178'
+lifecycle_stage: active
+run_id: be735093082149f189da7a1cef64dabf
+run_name: useful-horse-650
+run_uuid: be735093082149f189da7a1cef64dabf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744529852120
+status: 3
+tags: []
+user_id: rahma

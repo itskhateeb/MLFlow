@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahma/OneDrive/Desktop/MLOps/MLFlow/mlruns/834049462800618178/1278f682930c4c7ea7eff8340fa77a12/artifacts
+end_time: 1744529858890
+entry_point_name: ''
+experiment_id: '834049462800618178'
+lifecycle_stage: active
+run_id: 1278f682930c4c7ea7eff8340fa77a12
+run_name: loud-gnat-601
+run_uuid: 1278f682930c4c7ea7eff8340fa77a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744529858784
+status: 3
+tags: []
+user_id: rahma

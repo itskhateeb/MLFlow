@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahma/OneDrive/Desktop/MLOps/MLFlow/mlruns/834049462800618178/5168f522d5e542e58e0bbfc81bf956d0/artifacts
+end_time: 1744529859122
+entry_point_name: ''
+experiment_id: '834049462800618178'
+lifecycle_stage: active
+run_id: 5168f522d5e542e58e0bbfc81bf956d0
+run_name: caring-stoat-320
+run_uuid: 5168f522d5e542e58e0bbfc81bf956d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744529859043
+status: 3
+tags: []
+user_id: rahma

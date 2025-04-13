@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rahma/OneDrive/Desktop/MLOps/MLFlow/mlruns/834049462800618178/d889cca903644279847fde64289139b5/artifacts
+end_time: 1744529858679
+entry_point_name: ''
+experiment_id: '834049462800618178'
+lifecycle_stage: active
+run_id: d889cca903644279847fde64289139b5
+run_name: sincere-stag-403
+run_uuid: d889cca903644279847fde64289139b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744529858599
+status: 3
+tags: []
+user_id: rahma
